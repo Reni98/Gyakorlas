@@ -1,0 +1,69 @@
+1.Feladat
+Kérj be egy szót a felhasználótól, és vizsgáld meg, hogy valamelyik szóban van-e s vagy c.
+
+A minta:
+Adj megy egy szót: csilag
+A szóban van c és s betű is.
+
+Adj meg egy szót: sárga
+A szóban s betű van
+
+Adj meg egy szót: akác
+A szóban c betű van.
+
+Adj meg egy szót: kék
+A szóban egyik betű sem szerepel.
+
+
+2.Feladat
+szavak = ["A", "nap", "ragyog", "az", "égen", "és", "a", "madarak", "vidáman", "csiripelnek", "a", "fákon", "amíg", "az", "emberek", "sétálnak", "a", "parkban", "és", "élvezik", "a", "szép", "időt", "tavasz", "tarka", "tulipánok", "tündökölnek"]
+A megkapott listához, adj hozzá még egy szót, és addig kell a bekérni a felhasználótól, amíg nem lesz hosszabb, mint 3 betűs. Majd írd ki, hogy melyik szó lett hozzáadva a listához,
+és azoknak a szavak db számát amik t-vel kezdődnek és írd ki pontos vesszővel elválasztva a t-vel kezdődő szavakat.
+A minta:
+Adj meg egy szót!traktor
+A listához adott szó: traktor
+A listában 5 t-vel kezdődő szó van.
+tavasz;tarka;tulipánok;tündökölnek;traktor
+
+Adj meg egy szót!konzol
+A listához adott szó: konzol
+A listában 4 t-vel kezdődő szó van.
+tavasz;tarka;tulipánok;tündökölnek
+
+Adj meg egy szót!egy
+A szónak hosszabbnak kell lennie, mint 3 betű.
+Adj meg egy szót!
+
+3.Feladat
+Olvasd be és tárold el az ajandek lista tartalmát. Írask ki a lista teljes tartalmát. A legfiatalabb személynek írd ki a nevét és korát. 
+Írd ki, hány db kategória van a listában, ismétlés nélkül. Jelenítsd meg a konzolon a személyek neveit, az összeget és akciós árakat, mindenkinél egységesen 20% a kedvezmény.
+Írasd ki szbetuvelkezd.txt fájlba, egymás alá rendezve, az Sz-el kezdődő neveket.
+
+Kovács János, 120000, akciós ár: 96000
+Szabó Eszter, 85000, akciós ár: 68000
+Nagy Péter, 15000, akciós ár: 12000
+Tóth Anna, 40000, akciós ár: 32000
+Varga Gábor, 25000, akciós ár: 20000
+Horváth Júlia, 130000, akciós ár: 104000
+Mészáros Zoltán, 60000, akciós ár: 48000
+Farkas Krisztina, 25000, akciós ár: 20000
+Balogh László, 80000, akciós ár: 64000
+Kiss Mariann, 35000, akciós ár: 28000
+Papp Mária, 20000, akciós ár: 16000
+Béres Zoltán, 8000, akciós ár: 6400
+Gábor Andrea, 50000, akciós ár: 40000
+Molnár Péter, 15000, akciós ár: 12000
+Németh Sándor, 90000, akciós ár: 72000
+Tóth Gábor, 12000, akciós ár: 9600
+Bognár Ágnes, 25000, akciós ár: 20000
+Lukács Katalin, 18000, akciós ár: 14400
+Székely Imre, 8000, akciós ár: 6400
+Kocsis Anita, 20000, akciós ár: 16000
+Szilágyi Márk, 5000, akciós ár: 4000
+László Laura, 12000, akciós ár: 9600
+Péter Anna, 25000, akciós ár: 20000
+Varga Sándor, 15000, akciós ár: 12000
+Horváth Tamás, 3000, akciós ár: 2400
+Kiss Klára, 1500, akciós ár: 1200
+A legfiatalabb:Kiss Klára, 1996
+A kategóriák száma: 6

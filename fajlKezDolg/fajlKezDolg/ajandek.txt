@@ -1,0 +1,27 @@
+Név;Terméknév;Ár;Születési év;Kategória
+Kovács János;Laptop;120000;1985;Elektronika
+Szabó Eszter;Okostelefon;85000;1990;Elektronika
+Nagy Péter;Fülhallgató;15000;1980;Elektronika
+Tóth Anna;Kamera;40000;1995;Elektronika
+Varga Gábor;Porszívó;25000;1982;Háztartási gépek
+Horváth Júlia;Televízió;130000;1988;Elektronika
+Mészáros Zoltán;Tablet;60000;1992;Elektronika
+Farkas Krisztina;Okosóra;25000;1994;Elektronika
+Balogh László;Légkondicionáló;80000;1987;Háztartási gépek
+Kiss Mariann;Fagyasztó;35000;1991;Háztartási gépek
+Papp Mária;Kávéfőző;20000;1993;Háztartási gépek
+Béres Zoltán;Vízforraló;8000;1996;Háztartási gépek
+Gábor Andrea;Bicikli;50000;1983;Sporteszközök
+Molnár Péter;Súlyzó;15000;1981;Sporteszközök
+Németh Sándor;Futópad;90000;1989;Sporteszközök
+Tóth Gábor;Karperec;12000;1990;Ékszerek
+Bognár Ágnes;Nyaklánc;25000;1984;Ékszerek
+Lukács Katalin;Karóra;18000;1992;Ékszerek
+Székely Imre;Bross;8000;1980;Ékszerek
+Kocsis Anita;Táska;20000;1987;Divat
+Szilágyi Márk;Póló;5000;1993;Divat
+László Laura;Nadrág;12000;1995;Divat
+Péter Anna;Kabát;25000;1986;Divat
+Varga Sándor;Cipő;15000;1981;Divat
+Horváth Tamás;Kedvenc könyv;3000;1990;Könyvek
+Kiss Klára;Bicikli kesztyű;1500;1994;Sporteszközök
