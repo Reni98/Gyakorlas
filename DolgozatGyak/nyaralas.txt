@@ -1,0 +1,27 @@
+Név;Nyaralás;Napok száma;Ár;Gyerek;Akció
+Kovács János;Balaton;5;75000;False;15% kedvezmény
+Szabó Eszter;Tengerpart;7;120000;True;15% kedvezmény
+Nagy Péter;Hegyvidék;4;45000;False;15% kedvezmény
+Tóth Anna;Füred;3;30000;True;15% kedvezmény
+Varga Gábor;Külföld;10;200000;False;15% kedvezmény
+Horváth Júlia;Belföld;6;85000;True;15% kedvezmény
+Mészáros Zoltán;Tengerpart;8;160000;False;15% kedvezmény
+Farkas Krisztina;Balaton;5;70000;True;15% kedvezmény
+Balogh László;Külföld;12;250000;False;15% kedvezmény
+Kiss Mariann;Füred;4;40000;True;15% kedvezmény
+Papp Mária;Hegyvidék;5;60000;False;15% kedvezmény
+Béres Zoltán;Balaton;7;105000;True;15% kedvezmény
+Gábor Andrea;Tengerpart;9;180000;False;15% kedvezmény
+Molnár Péter;Belföld;3;25000;True;15% kedvezmény
+Németh Sándor;Külföld;14;280000;False;15% kedvezmény
+Tóth Gábor;Füred;6;80000;True;15% kedvezmény
+Bognár Ágnes;Balaton;5;75000;False;15% kedvezmény
+Lukács Katalin;Tengerpart;7;140000;True;15% kedvezmény
+Székely Imre;Belföld;4;50000;False;15% kedvezmény
+Kocsis Anita;Külföld;10;220000;True;15% kedvezmény
+Szilágyi Márk;Füred;6;90000;False;15% kedvezmény
+László Laura;Tengerpart;8;160000;True;15% kedvezmény
+Péter Anna;Hegyvidék;4;55000;False;15% kedvezmény
+Varga Sándor;Balaton;3;40000;True;15% kedvezmény
+Horváth Tamás;Belföld;7;105000;False;15% kedvezmény
+Kiss Klára;Tengerpart;5;75000;True;15% kedvezmény

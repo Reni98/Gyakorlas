@@ -1,0 +1,25 @@
+Osztály;Hány gyerek;Hónap;Menzai ár;Nagycsaládosok száma
+1.A;30;Január;12000;5
+1.B;28;Február;11000;3
+2.A;32;Március;13000;4
+2.B;29;Április;11500;2
+3.A;31;Május;14000;6
+3.B;30;Június;12500;3
+4.A;33;Július;13500;7
+4.B;30;Augusztus;13000;4
+5.A;32;Szeptember;14500;5
+5.B;30;Október;12000;6
+6.A;34;November;15000;2
+6.B;32;December;14000;3
+7.A;31;Január;16000;4
+7.B;30;Február;15500;5
+8.A;33;Március;17000;6
+8.B;31;Április;16500;2
+9.A;32;Május;18000;4
+9.B;30;Június;15000;5
+10.A;33;Július;18500;3
+10.B;30;Augusztus;17500;6
+11.A;32;Szeptember;19000;7
+11.B;31;Október;18500;4
+12.A;33;November;20000;5
+12.B;30;December;19500;6
